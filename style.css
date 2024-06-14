@@ -183,6 +183,9 @@ border-right: 1px solid black;
     .data-container{
          font-size: 12px;
  }
+    .console{
+        width: 95vw;
+    }
 }
 
 @media only screen and (max-width:768px){
